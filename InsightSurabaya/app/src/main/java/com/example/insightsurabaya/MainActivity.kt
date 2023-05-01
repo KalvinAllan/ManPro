@@ -14,6 +14,11 @@ class MainActivity : AppCompatActivity() {
         var count =0
         var gambar = findViewById<ImageView>(R.id.imageView2)
 
+        gambar.setOnClickListener {
+            val intent = Intent(this@MainActivity,Home::class.java)
+            startActivity(intent)
+        }
+
         object : CountDownTimer(5000, 1000) {
             override fun onTick(p0: Long) {
             }
