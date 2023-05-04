@@ -30,7 +30,7 @@ class Home : AppCompatActivity() {
         setContentView(R.layout.activity_home)
 
         val db: FirebaseFirestore = FirebaseFirestore.getInstance()
-        val storageRef =FirebaseStorage.getInstance().reference.child()
+        val storageRef =FirebaseStorage.getInstance()
 
         var imageSlider = findViewById<ImageSlider>(R.id.carosel)
         var slidemodel = ArrayList<SlideModel>()
