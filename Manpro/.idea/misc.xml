@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1095" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/baseline_search_24.xml" value="0.1095" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/baseline_search_25.xml" value="0.1995" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/border.xml" value="0.2275" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/border1.xml" value="0.2275" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/border2.xml" value="0.2275" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1075" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.188" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/ic_baseline_keyboard_arrow_up.xml" value="0.2275" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1095" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/rating.xml" value="0.12" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/drawable/recycler.xml" value="0.1" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_bookmark.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_change_email.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_change_pass.xml" value="0.536" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_detail_museum.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_filter_jarak.xml" value="0.176" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_filter_rating.xml" value="0.152" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_filter_ratinggg.xml" value="0.152" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_filter_ratinggggg.xml" value="0.176" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_filter_ratinggggggg.xml" value="0.4" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_forget_password.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_forget_password2.xml" value="0.536" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_koleksi_wr.xml" value="0.176" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_opening.xml" value="0.16" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_rating.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_register.xml" value="0.4" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_terms_of_service.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_viltuar_tour.xml" value="0.2" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_viltuar_tour2.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/activity_vthos.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/fragment_logout_pop_up.xml" value="0.176" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/koleksi_list.xml" value="0.264" />
+        <entry key="..\:/Users/Jimmy/AndroidStudioProjects/Manpro/app/src/main/res/layout/museum_list.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
